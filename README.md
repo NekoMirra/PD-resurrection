@@ -1,6 +1,12 @@
+# PD-resurrection
+感谢@TkzcM 与 @xjxaixxy 大佬提供思路与源文件
+https://www.hostloc.com/thread-675311-1-1.html
+https://github.com/TkzcM/pandownload-fake-server
+
 ## 这个能干啥？
 
 这个可以用来复活你的Pandownload（尽管可能是暂时的）
+比起上述的方法，使用这个可以恢复Pandownload的登录功能。
 
 ## 使用方法
 
