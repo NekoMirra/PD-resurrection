@@ -1,6 +1,8 @@
 # PD-resurrection
 感谢@TkzcM 与 @xjxaixxy 大佬提供思路与源文件
+
 https://www.hostloc.com/thread-675311-1-1.html
+
 https://github.com/TkzcM/pandownload-fake-server
 
 ## 这个能干啥？
@@ -63,4 +65,6 @@ host文件位于：
 (您WEB服务器的IP) pandownload.com
 ```
 
-3. 目前看一切运转正常，**FUCK BAIDU**。
+3. 目前看一切运转正常。
+
+**FUCK BAIDU**
